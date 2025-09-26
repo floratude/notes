@@ -17,4 +17,5 @@ Commenting allows you to comment on your code without it being displayed in the 
 ```
 
 ---
-### 
+### resources
+[HTML Living Standard](https://html.spec.whatwg.org/multipage/syntax.html#start-tags)
